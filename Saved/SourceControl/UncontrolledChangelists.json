@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/MSI/Documents/Unreal Projects/Game2D/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/Game2D/Content/MAP_2D.umap",
+				"C:/Users/MSI/Documents/Unreal Projects/Game2D/Content/Maps/MAP_2D.umap",
+				"C:/Users/MSI/Documents/Unreal Projects/Game2D/Content/PaperAssets/Character/Character.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/Game2D/Content/PaperAssets/Environment/T_BackgroundTrees.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/Game2D/Content/PaperAssets/Environment/T_ForegroundTrees.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/Game2D/Content/PaperAssets/Environment/T_Sky.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/Game2D/Content/PaperAssets/Environment/T_TilesMain.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/Game2D/Content/PaperAssets/Environment/T_TilesMain_TileSet.uasset"
+			]
+		}
+	]
+}
